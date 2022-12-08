@@ -1,6 +1,5 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import { gitPlugin } from '@vuepress/plugin-git'
 
 import {
     head,
