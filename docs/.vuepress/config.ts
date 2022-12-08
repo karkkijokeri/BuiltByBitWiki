@@ -13,7 +13,6 @@ const isProd = process.env.NODE_ENV === 'production'
 
 
 export default {
-    repo: 'https://github.com/Codixer/BuiltByBitWiki',
     locales: {
         // The key is the path for the locale to be nested under.
         // As a special case, the default locale can use '/' as its path.
@@ -29,11 +28,11 @@ export default {
         },
     },
     head: head,
-    theme: defaultTheme({
+    theme: {
         logo: '/img/BBB.png',
-        repo: 'vuepress/vuepress-next',
+        repo: 'Codixer/BuiltByBitWiki',
         docsDir: 'docs',
-    
+      
         // theme-level locales config
         locales: {
           /**
@@ -84,6 +83,6 @@ export default {
           // use shiki plugin in production mode instead
           prismjs: !isProd,
         },
-      }),
+      },
       
 }
