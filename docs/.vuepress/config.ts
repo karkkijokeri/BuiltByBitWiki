@@ -28,7 +28,7 @@ export default {
         },
     },
     head: head,
-    theme: {
+    theme: defaultTheme({
         logo: '/img/BBB.png',
         repo: 'Codixer/BuiltByBitWiki',
         docsDir: 'docs',
@@ -83,6 +83,5 @@ export default {
           // use shiki plugin in production mode instead
           prismjs: !isProd,
         },
-      },
-      
+      }),     
 }
