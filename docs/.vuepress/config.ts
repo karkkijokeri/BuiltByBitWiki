@@ -1,5 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
+import { gitPlugin } from '@vuepress/plugin-git'
 
 import {
     head,
@@ -13,7 +14,6 @@ const isProd = process.env.NODE_ENV === 'production'
 
 
 export default defineUserConfig({
-
     locales: {
         // The key is the path for the locale to be nested under.
         // As a special case, the default locale can use '/' as its path.
@@ -28,8 +28,9 @@ export default defineUserConfig({
             description: 'Een uitleg hoe je een BBB Zelfstandig Particulier wordt!',
         },
     },
-
+    head: head,
     theme: defaultTheme({
+        
         logo: '/img/BBB.png',
         repo: 'vuepress/vuepress-next',
         docsDir: 'docs',
@@ -80,10 +81,10 @@ export default defineUserConfig({
         },
     
         themePlugins: {
-          // only enable git plugin in production mode
-          git: !isProd,
+          git: isProd,
           // use shiki plugin in production mode instead
           prismjs: !isProd,
         },
       }),
+      
 })

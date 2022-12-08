@@ -1,3 +1,2 @@
-# Become a staff manager
-Blablabla
-how to blablabla
+# What is management exactly?
+Managing

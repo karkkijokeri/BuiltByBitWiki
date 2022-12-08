@@ -1,0 +1,11 @@
+# How (or why) should I be a freelancer?
+---
+This is not the easiest question to answer. Neither is this a cut and dry explanation for how to become one, this all depends on what type of work you do. This could be [System Administration](system-administrator/README.md). But it could also be a plugin developer who creates plugins for a server, or sells them as a resource. Or you could go the management route, and lead the team of a server to success. You can be anything, or find out what skills you are experienced in though this way. And you cam make a tiny side-cash from doing so. Of course, this doesn't mean you should go on and start scamming everyone. (Please don't)
+
+This isn't an easy route to follow in any and all ways, as BBB especially (or other platforms, depending on your choice of platform) has [a ton of rules you have to follow](https://builtbybit.com/wiki/rules/). These rules make the platform fair for everyone, specificly in cases where [certain products/services](https://builtbybit.com/wiki/forbidden-products-and-services/) are forbidden to be sold/discussed about. However, these restrictions allow your protection against being scammed, or at the least work with the staff to remove the scammer in question from the platform. 
+
+## This sounds like a "make easy money quick" scam
+Hahaha, I can't blame you on that. However, BuiltByBit is a forum that runs on the software "[XenForo](https://xenforo.com/)". This means people can make (mostly) any sort of post that they want. The BBB staff is voluntarily helping to keep BBB as safe as possible. There are systems like "[Transaction Disputes](https://builtbybit.com/wiki/transaction-disputes/)". 
+
+### What are Transaction Disputes? (TD's)
+When dealing with any party, sometimes the transaction may reach an unexpected outcome for one or both parties involved or perhaps a product may not be delivered at all. Usually, the disagreement can be resolved between the involved parties, but in the cases where a resolution cannot be met, BuiltByBit offers Transaction Disputes. Please read their wiki on [Trading Etiquette](https://builtbybit.com/wiki/trading-etiquette/) to understand how to reduce the possibility of a Transaction Dispute being needed by ensuring good communication of expectations.
