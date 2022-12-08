@@ -29,7 +29,7 @@ export default defineUserConfig({
     },
     head: head,
     theme: defaultTheme({
-        
+        docsRepo: 'https://github.com/Codixer/BuiltByBitWiki',
         logo: '/img/BBB.png',
         repo: 'vuepress/vuepress-next',
         docsDir: 'docs',
