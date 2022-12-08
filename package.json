@@ -1,0 +1,29 @@
+{
+  "name": "bbbw",
+  "version": "0.0.1",
+  "description": "A how-to for starting out with BBB as an freelancer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codixer/BuiltByBitWiki.git"
+  },
+  "keywords": [
+    "builtbybit",
+    "bbb",
+    "bbyb"
+  ],
+  "author": "Codixer",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Codixer/BuiltByBitWiki/issues"
+  },
+  "homepage": "https://github.com/Codixer/BuiltByBitWiki",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.54"
+  }
+}
